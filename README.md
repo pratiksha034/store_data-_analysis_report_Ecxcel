@@ -16,3 +16,9 @@ The objective of this project is to analyze the sales and inventory data of Nage
 8.Highest selling category?
 
 Dashboard Interaction <a href="https://github.com/pratiksha034/store_data-_analysis_report_Ecxcel/blob/main/Screenshot%202025-03-31%20181525.png ">Dashboard</a>
+# dashboard
+![Screenshot 2025-03-31 181525](https://github.com/user-attachments/assets/036dd1d9-bcb8-428e-ae11-840325edee03)
+
+
+
+
