@@ -7,12 +7,19 @@ The objective of this project is to analyze the sales and inventory data of Nage
 
 # Sample questions 
 1.Compare the sales and orders using a single chart
+
 2.Which month got the highest sales and orders?
+
 3.Who purchased more – men or women in 2022?
+
 4.What are different order statuses in 2022?
+
 5.List top 10 states contributing to the sales
+
 6.Relation between age and gender based on number of orders
+
 7.Which channel is contributing to maximum sales?
+
 8.Highest selling category?
 
 Dashboard Interaction <a href="https://github.com/pratiksha034/store_data-_analysis_report_Ecxcel/blob/main/Screenshot%202025-03-31%20181525.png ">Dashboard</a>
